@@ -1,0 +1,11 @@
+{
+  "name": "websocket-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/saefulbhq/websocket-client.git",
+  "author": "oltpool <oltpool@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.4.2"
+  }
+}
